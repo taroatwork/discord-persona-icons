@@ -1,0 +1,10 @@
+{
+  "personas": [
+    {
+      "id": "claude-code",
+      "username": "山田健太郎のClaude Code",
+      "avatar_url": "https://raw.githubusercontent.com/taroatwork/discord-persona-icons/main/icons/claude-code-v1.png",
+      "note": "Claude Code からの投稿"
+    }
+  ]
+}
