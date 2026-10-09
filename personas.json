@@ -5,6 +5,30 @@
       "username": "山田健太郎のClaude Code",
       "avatar_url": "https://raw.githubusercontent.com/taroatwork/discord-persona-icons/main/icons/claude-code-v1.png",
       "note": "Claude Code からの投稿"
+    },
+    {
+      "id": "codex",
+      "username": "山田健太郎のCodex",
+      "avatar_url": "https://raw.githubusercontent.com/taroatwork/discord-persona-icons/main/icons/codex-v1.png",
+      "note": ""
+    },
+    {
+      "id": "gear",
+      "username": "山田健太郎のGear",
+      "avatar_url": "https://raw.githubusercontent.com/taroatwork/discord-persona-icons/main/icons/gear-v1.png",
+      "note": ""
+    },
+    {
+      "id": "house",
+      "username": "山田健太郎のHouse",
+      "avatar_url": "https://raw.githubusercontent.com/taroatwork/discord-persona-icons/main/icons/house-v1.png",
+      "note": ""
+    },
+    {
+      "id": "notebook",
+      "username": "山田健太郎のNotebook",
+      "avatar_url": "https://raw.githubusercontent.com/taroatwork/discord-persona-icons/main/icons/notebook-v1.png",
+      "note": ""
     }
   ]
 }
